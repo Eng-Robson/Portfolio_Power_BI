@@ -9,6 +9,8 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 🎯 Filtros por nome, tipo, gênero e planeta de origem
 - 🧬 Agrupamentos por raça, gênero e status
 - 📎 [Veja o relatório .pbix](RickMorty/rickmorty.pbix)
+- ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
+
 
 ### 🛒 Dashboard de Vendas
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio
