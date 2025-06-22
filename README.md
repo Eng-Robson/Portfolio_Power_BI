@@ -8,15 +8,17 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 📊 Análise com dados da API pública da série
 - 🎯 Filtros por nome, tipo, gênero e planeta de origem
 - 🧬 Agrupamentos por raça, gênero e status
-- 📎 [Veja o relatório .pbix](RickMorty/rickmorty.pbix)
+
 - ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
 
 
-### 🛒 Dashboard de Vendas
+### 🛒 Dashboard Comercial - Performance e lucratividade.
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio
-- 🗂️ Filtros por região, produto e canal
+- 🗂️ Filtros por cliente, produto, categoria e região.
 - 🚀 Automatização de atualizações com Power Query
-- 📎 [Veja o relatório .pbix](Dashboard-Vendas/vendas.pbix)
+
+- ![image](https://github.com/user-attachments/assets/f9e80133-d58c-4213-8b50-b266a8cd46b0)
+
 
 ## Sobre mim
 
