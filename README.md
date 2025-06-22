@@ -1,8 +1,6 @@
 # 👋 Sobre mim
 
-# Robson Souza
-
-## LinkedIn
+## Robson Souza - LinkedIn
 
 📫 [LinkedIn](https://www.linkedin.com/in/robson-souza-13142364/)
 
