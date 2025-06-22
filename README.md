@@ -1,5 +1,6 @@
 # 👋 Sobre mim
 
+![image](https://github.com/user-attachments/assets/4cb373b7-7ed3-473b-8eae-10f93f5bef3b)
 Robson Souza
 
 ## LinkedIn
