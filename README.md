@@ -4,14 +4,6 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 
 ## Projetos em destaque
 
-### 🧪 Rick and Morty Dashboard - API paginada.
-- 📊 Análise com dados da API pública da série
-- 🎯 Filtros por nome, tipo, gênero e planeta de origem
-- 🧬 Agrupamentos por raça, gênero e status
-
-- ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
-
-
 ### 🛒 Dashboard Comercial - Performance e lucratividade.
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio
 - 🗂️ Filtros por cliente, produto, categoria e região.
@@ -19,6 +11,12 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 
 - ![image](https://github.com/user-attachments/assets/f9e80133-d58c-4213-8b50-b266a8cd46b0)
 
+### 🧪 Rick and Morty Dashboard - API paginada.
+- 📊 Análise com dados da API pública da série
+- 🎯 Filtros por nome, tipo, gênero e planeta de origem
+- 🧬 Agrupamentos por raça, gênero e status
+
+- ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
 
 ## Sobre mim
 
