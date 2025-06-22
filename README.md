@@ -1,8 +1,8 @@
 # 👋 Sobre mim
 
-Nome: Robson Souza
+Robson Souza
 
-## Contato
+## LinkedIn
 
 📫 [LinkedIn](https://www.linkedin.com/in/robson-souza-13142364/)
 
