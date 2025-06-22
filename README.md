@@ -57,4 +57,11 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 
 
 
-![image](https://github.com/user-attachments/assets/2b4dd057-277a-44bd-bc1e-293482c1c161)![image](https://github.com/user-attachments/assets/107d0965-9f50-46ff-a68b-39fb0e6983a8)![image](https://github.com/user-attachments/assets/e623c6f1-dda8-4e56-9f4a-692f51bcd59e)![image](https://github.com/user-attachments/assets/6fcc04cf-266e-46d4-83e9-45dcecbc4104)![image](https://github.com/user-attachments/assets/ce9d2282-dfb6-4ab3-a3b5-2c4546079fa8)![image](https://github.com/user-attachments/assets/c7a129ea-7801-464d-b39d-5262014b28ac)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b4dd057-277a-44bd-bc1e-293482c1c161" width="100" />
+  <img src="https://github.com/user-attachments/assets/107d0965-9f50-46ff-a68b-39fb0e6983a8" width="100" />
+  <img src="https://github.com/user-attachments/assets/e623c6f1-dda8-4e56-9f4a-692f51bcd59e" width="100" />
+  <img src="https://github.com/user-attachments/assets/6fcc04cf-266e-46d4-83e9-45dcecbc4104" width="100" />
+  <img src="https://github.com/user-attachments/assets/ce9d2282-dfb6-4ab3-a3b5-2c4546079fa8" width="100" />
+  <img src="https://github.com/user-attachments/assets/c7a129ea-7801-464d-b39d-5262014b28ac" width="100" />
+</p>
