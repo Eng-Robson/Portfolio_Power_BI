@@ -65,3 +65,17 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
   <img src="https://github.com/user-attachments/assets/ce9d2282-dfb6-4ab3-a3b5-2c4546079fa8" width="100" />
   <img src="https://github.com/user-attachments/assets/c7a129ea-7801-464d-b39d-5262014b28ac" width="100" />
 </p>
+
+####### Na real? Gosto das coisas simples com atitude.
+
+- 🛹 Quando tô de boa, é pé no skate e resenha
+- 📚 Curto uns livros que fazem pensar — exemplo *A Arte da Guerra* e *Como Fazer Amigos e Influenciar Pessoas*
+- 🎵 Minha trilha sonora é na base da energia:
+  - Misfits
+  - Ramones
+  - Sepultura
+  - System of a Down
+  - Charlie Brown Jr. (não pode faltar!🛹)
+
+Se curte trocar ideia sobre som, leitura ou Business Inteligence, chega mais 🤘
+
