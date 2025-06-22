@@ -1,8 +1,8 @@
 # 👋 Sobre mim
 
-## Robson Souza - LinkedIn
+## Robson Souza - 📫 [LinkedIn](https://www.linkedin.com/in/robson-souza-13142364/)
 
-📫 [LinkedIn](https://www.linkedin.com/in/robson-souza-13142364/)
+
 
 Nascido em 1987, sou Engenheiro de Produção desde 2017 e em 2021 completei meu MBA em Business Intelligence & Business Analytics. Entusiasta por dados e análises, acredito no poder das informações para transformar decisões em resultados. Tenho paixão por descobrir padrões, explorar insights e usar tecnologia para resolver problemas do mundo real.
 
