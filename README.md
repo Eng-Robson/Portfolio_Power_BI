@@ -6,24 +6,26 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 
 ### 🛒 Dashboard de Vendas - Artigos esportivos:
 
-- 📈 Acompanhamento mensal de vendas, % YOY (Ano contra ano) por canal de distribuição, Receita por categoria esportiva;
+- 📈 Acompanhamento mensal de vendas, % YOY (Ano contra ano) por canal de distribuiçã e Receita por categoria esportiva;
 - 🗂️ Filtros por vendedor, local, cliente, produto e categoria de produto;
 - 🚀 ETL diretamente com código SQL.
-- 
+- 📈 Metricas em Dax.
+  
 ![image](https://github.com/user-attachments/assets/49633782-f927-47da-ade4-3862f5267749)
-
 
 ### 🛒 Dashboard Comercial - Performance e lucratividade:
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio;
 - 🗂️ Filtros por cliente, produto, categoria e região;
-- 🚀 Automatização de atualizações com Power Query.
+- 🚀 Automatização de atualizações com Power Query;
+- 📈 Metricas em Dax.
 
 - ![image](https://github.com/user-attachments/assets/f9e80133-d58c-4213-8b50-b266a8cd46b0)
 
 ### 🧪 Rick and Morty Dashboard - API paginada:
 - 📊 Análise com dados da API pública da série;
 - 🎯 Filtros por nome, tipo, gênero e planeta de origem;
-- 🚀 Dados extraídos diretamente da API paginada, com atualização dinâmica.
+- 🚀 Dados extraídos diretamente da API paginada, com atualização dinâmica;
+- 📈 Metricas em Dax.
 
 - ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
 
@@ -37,6 +39,7 @@ Nascido em 1987, sou Engenheiro de Produção desde 2017 e em 2021 completei meu
 - Inteligência de negócios;
 - Analise de dados;
 - Automação de processos.
+  
 
 🚀 Sempre em busca de novos aprendizados e desafios que envolvam dados e inovação.
 
