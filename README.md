@@ -4,6 +4,13 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 
 ## Projetos em destaque
 
+### 🛒 Dashboard de Vendas - Artigos esportivos.
+- 📈 Acompanhamento mensal de vendas, % YOY (Ano contra ano) por canal de distribuição, Receita por categoria esportiva. 
+- 🗂️ Filtros por vendedor, local, cliente, produto e categoria de produto.
+- 🚀 ETL diretamente com código SQL
+![image](https://github.com/user-attachments/assets/49633782-f927-47da-ade4-3862f5267749)
+
+
 ### 🛒 Dashboard Comercial - Performance e lucratividade.
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio
 - 🗂️ Filtros por cliente, produto, categoria e região.
