@@ -16,7 +16,7 @@ Nascido em 1987, sou Engenheiro de Produção desde 2017 e em 2021 completei meu
 
 🚀 Sempre em busca de novos aprendizados e desafios que envolvam dados e inovação.
 
-Sou Especialista em Relatórios de Negócios, atualmente CLT em um Banco global com foco nos setores agrícola e de transportes. Fora do ambiente corporativo, trabalho como freelancer em projetos de BI, desenvolvendo dashboards personalizados, relatórios e automações de processos.
+Sou Especialista em Relatórios de Negócios, atualmente CLT em um Banco global com foco nos setores agrícola e transportes. Fora do ambiente corporativo, trabalho como freelancer em projetos de BI, desenvolvendo dashboards personalizados, relatórios e automações de processos.
 
 Tenho ampla experiência no desenvolvimento de soluções personalizadas para Business Intelligence, promovendo insights orientados por dados e otimizando fluxos de trabalho. Utilizo ferramentas como Power BI integradas a bancos de dados (SQL, APIs públicas e fechadas, fontes ODBC e planilhas hospedadas no SharePoint) — com o objetivo de transformar **dados brutos em histórias visuais impactantes**, sempre aliando uma boa visualização com técnicas eficazes de *storytelling*.
 
