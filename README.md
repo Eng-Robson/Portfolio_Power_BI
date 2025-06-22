@@ -76,6 +76,6 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
   - Charlie Brown Jr. (não pode faltar! 🛹)
 
 Se você é da área, curte trocar ideia sobre som, leitura ou Business Intelligence, cola aí 🤘  
-E se for uma empresa procurando um profissional de BI pra desenvolver aquele projeto de respeito, bora conversar.
+E se for uma empresa procurando um profissional de BI pra desenvolver aquele projeto de respeito, chama lá no LinkedIn e bora conversar.
 
 
