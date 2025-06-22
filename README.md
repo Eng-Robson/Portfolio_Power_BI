@@ -7,7 +7,7 @@
 Nascido em 1987, sou Engenheiro de Produção desde 2017 e em 2021 completei meu MBA em Business Intelligence & Business Analytics. Entusiasta por dados e análises, acredito no poder das informações para transformar decisões em resultados. Tenho paixão por descobrir padrões, explorar insights e usar tecnologia para resolver problemas do mundo real.
 
 🔍 Áreas de interesse:
-- Banco de dados estrturais;
+- Banco de dados estruturais;
 - Visualização de informações;
 - Inteligência de negócios;
 - Analise de dados;
