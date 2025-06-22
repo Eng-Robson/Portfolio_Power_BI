@@ -1,6 +1,12 @@
 # 👋 Sobre mim
 
-![image](https://github.com/user-attachments/assets/4cb373b7-7ed3-473b-8eae-10f93f5bef3b)
+![image](https://github.com/user-attachments/assets/2b4dd057-277a-44bd-bc1e-293482c1c161)![image](https://github.com/user-attachments/assets/107d0965-9f50-46ff-a68b-39fb0e6983a8)![image](https://github.com/user-attachments/assets/e623c6f1-dda8-4e56-9f4a-692f51bcd59e)![image](https://github.com/user-attachments/assets/6fcc04cf-266e-46d4-83e9-45dcecbc4104)![image](https://github.com/user-attachments/assets/ce9d2282-dfb6-4ab3-a3b5-2c4546079fa8)![image](https://github.com/user-attachments/assets/c7a129ea-7801-464d-b39d-5262014b28ac)
+
+
+
+
+
+
 
 # Robson Souza
 
