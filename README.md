@@ -11,7 +11,8 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 🚀 ETL diretamente com código SQL.
 - 📈 Metricas em Dax.
   
-![image](https://github.com/user-attachments/assets/49633782-f927-47da-ade4-3862f5267749)
+![image](https://github.com/user-attachments/assets/402384df-44f1-4b5f-a409-6188be83dbb0)
+
 
 ### 🛒 Dashboard Comercial - Performance e lucratividade:
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio;
@@ -19,7 +20,8 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 🚀 Automatização de atualizações com Power Query;
 - 📈 Metricas em Dax.
 
-- ![image](https://github.com/user-attachments/assets/f9e80133-d58c-4213-8b50-b266a8cd46b0)
+- ![image](https://github.com/user-attachments/assets/cb7028b8-e2ea-4ce9-a3ec-6d9cecc67949)
+
 
 ### 🧪 Rick and Morty Dashboard - API paginada:
 - 📊 Análise com dados da API pública da série;
