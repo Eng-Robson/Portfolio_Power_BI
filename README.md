@@ -28,7 +28,7 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 
 #### 🛒 Dashboard de Vendas - Artigos esportivos:
 
-- 📈 Acompanhamento mensal de vendas, % YOY (Ano contra ano) por canal de distribuiçã e Receita por categoria esportiva;
+- 📈 Acompanhamento mensal de vendas, % YOY (Ano contra ano) por canal de distribuição e Receita por categoria esportiva;
 - 🗂️ Filtros por vendedor, local, cliente, produto e categoria de produto;
 - 🚀 ETL diretamente com código SQL.
 - 📈 Metricas em Dax.
@@ -39,7 +39,7 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 ##### 🛒 Dashboard Comercial - Performance e lucratividade:
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio;
 - 🗂️ Filtros por cliente, produto, categoria e região;
-- 🚀 Automatização de atualizações com Power Query;
+- 🚀 Automatização de atualizações com Power Query (base leve);
 - 📈 Metricas em Dax.
 
   ![image](https://github.com/user-attachments/assets/cb7028b8-e2ea-4ce9-a3ec-6d9cecc67949)
@@ -52,7 +52,6 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 📈 Metricas em Dax.
 
   ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
-
 
 
 <p align="center">
