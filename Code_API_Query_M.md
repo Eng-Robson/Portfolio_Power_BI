@@ -62,7 +62,7 @@ in
     
 ![image](https://github.com/user-attachments/assets/e5cede0e-095f-4d89-b9fd-de21cc983bd8)
 
-Dados retornados de forma dinâmica:
+Dados retornados de forma dinâmica da API:
 ![image](https://github.com/user-attachments/assets/88338c2d-482b-4921-94a8-3ead55211ee3)
 
 Lembrando que você pode seguir esse passo a passo para qualquer conexão de API paginada.
