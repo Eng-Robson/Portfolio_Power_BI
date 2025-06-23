@@ -38,13 +38,13 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 ![image](https://github.com/user-attachments/assets/402384df-44f1-4b5f-a409-6188be83dbb0)
 
 
-##### 🛒 Dashboard Comercial - Performance e lucratividade:
+##### 🛒 Dashboard Comercial - Performance & gerenciament0:
 - 📈 Acompanhamento mensal de vendas, metas e ticket médio;
 - 🗂️ Filtros por cliente, produto, categoria e região;
 - 🚀 Automatização de atualizações com Power Query (base leve);
 - 📈 Metricas em Dax.
 
- ![image](https://github.com/user-attachments/assets/353e2736-57ab-4335-9025-a38af2e9c4f0)
+![image](https://github.com/user-attachments/assets/3c95646c-95f4-490d-8240-ef5f1a5aa38c)
 
 
 ###### 🧪 Rick and Morty Dashboard - API paginada:
