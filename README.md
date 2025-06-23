@@ -51,8 +51,8 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 📊 Análise com dados da API pública da série;
 - 🎯 Filtros por nome, tipo, gênero e planeta de origem;
 - 🚀 Dados extraídos diretamente da API paginada, com atualização dinâmica;
-- 📈 Metricas em Dax.
-- [Documentação da API utilizada:](https://rickandmortyapi.com/documentation/#graphql)
+- 📈 Metricas em Dax;
+- [Documentação da API utilizada](https://rickandmortyapi.com/documentation/#graphql).
 
 1º versão
 ![image](https://github.com/user-attachments/assets/65fe4b54-af7b-4d51-9321-4708635d38d3)
