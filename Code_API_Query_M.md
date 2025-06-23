@@ -16,7 +16,7 @@ in
 
 ![image](https://github.com/user-attachments/assets/763bb602-ca2f-4305-ac4a-cd239fa5e924)
 
-
+</code>
 //Feito isso você precisa criar o segundo arquivo que recebe as chamadas da API, Nova consulta -> Consulta Nula, Editor avançado, insere a o código abaixo.
 
 let
@@ -39,6 +39,7 @@ let
     Expandido = Table.ExpandTableColumn(ComDados, "character", {"info.count", "info.pages", "info.next", "info.prev", "results.id", "results.name", "results.status", "results.species", "results.type", "results.gender", "results.origin.name", "results.origin.url", "results.location.name", "results.location.url", "results.image", "results.episode", "results.url", "results.created"}, {"character.info.count", "character.info.pages", "character.info.next", "character.info.prev", "character.results.id", "character.results.name", "character.results.status", "character.results.species", "character.results.type", "character.results.gender", "character.results.origin.name", "character.results.origin.url", "character.results.location.name", "character.results.location.url", "character.results.image", "character.results.episode", "character.results.url", "character.results.created"})
 in
     Expandido
+</pre>
     
 ![image](https://github.com/user-attachments/assets/e5cede0e-095f-4d89-b9fd-de21cc983bd8)
 
