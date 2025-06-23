@@ -53,7 +53,7 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 🚀 Dados extraídos diretamente da API paginada, com atualização dinâmica;
 - 📈 Metricas em Dax.
 
-  ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
+ ![image](https://github.com/user-attachments/assets/4f294210-042b-4364-9b06-7b7ca702154a)
 
 
 <p align="center">
