@@ -54,7 +54,8 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 📈 Metricas em Dax.
 
 1º versão
-![image](https://github.com/user-attachments/assets/829b26b6-1dd6-458c-a6c0-96c607679baa)
+![image](https://github.com/user-attachments/assets/65fe4b54-af7b-4d51-9321-4708635d38d3)
+
 
 2º versão
 ![image](https://github.com/user-attachments/assets/0cd4e04d-eaa8-4a16-a464-b644815f4a52)
