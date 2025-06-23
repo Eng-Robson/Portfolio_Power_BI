@@ -25,7 +25,7 @@ in
 ![image](https://github.com/user-attachments/assets/763bb602-ca2f-4305-ac4a-cd239fa5e924)
 
 
-//Feito isso você precisa criar o segundo arquivo que recebe as chamadas da API, Nova consulta -> Consulta Nula, Editor avançado, insere a o código abaixo.
+//Feito isso você precisa criar o segundo arquivo que recebe as chamadas da API
 
 ## 🔄 Consumindo API com Power Query (M)
 
@@ -37,7 +37,7 @@ Este trecho mostra como consumir todos os dados da [Rick and Morty API](https://
 3. Cole o código abaixo:
 
 ```
-//Feito isso você precisa criar o segundo arquivo que recebe as chamadas da API
+//Feito isso você precisa criar o segundo arquivo que recebe as chamadas da API com esse nome 'All_characters'
 
 let
     // Chamada inicial à API para pegar apenas o info.pages
