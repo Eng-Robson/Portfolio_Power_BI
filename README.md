@@ -44,7 +44,7 @@ Bem-vindo ao meu portfólio de projetos em Power BI! Aqui compartilho alguns das
 - 🚀 Automatização de atualizações com Power Query (base leve);
 - 📈 Metricas em Dax.
 
-  ![image](https://github.com/user-attachments/assets/cb7028b8-e2ea-4ce9-a3ec-6d9cecc67949)
+ ![image](https://github.com/user-attachments/assets/353e2736-57ab-4335-9025-a38af2e9c4f0)
 
 
 ###### 🧪 Rick and Morty Dashboard - API paginada:
