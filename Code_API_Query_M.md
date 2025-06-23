@@ -14,7 +14,7 @@ let
 in
     #"Tipo Alterado"
 
-    ![image](https://github.com/user-attachments/assets/763bb602-ca2f-4305-ac4a-cd239fa5e924)
+![image](https://github.com/user-attachments/assets/763bb602-ca2f-4305-ac4a-cd239fa5e924)
 
 
 //Feito isso você precisa criar o segundo arquivo que recebe as chamadas da API, Nova consulta -> Consulta Nula, Editor avançado, insere a o código abaixo.
